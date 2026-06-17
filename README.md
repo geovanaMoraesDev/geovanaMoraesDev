@@ -30,6 +30,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<br />
 
 <img 
     align="left" 
