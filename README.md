@@ -144,6 +144,38 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
 <br/>
 <br/>
 
+## ☁️ Cloud
+
+### Plataformas
+- Microsoft Azure
+- Amazon Web Services (AWS)
+
+### Conhecimentos
+- Cloud Computing
+- Infraestrutura como Serviço (IaaS)
+- Máquinas Virtuais
+- Monitoramento em Nuvem
+
+## 🌐 Redes
+
+### Conceitos
+- Redes de Computadores
+- Endereçamento IPv4
+- Subnetting
+- Roteamento
+- Cabeamento Estruturado
+- Troubleshooting de Redes
+
+### Protocolos e Tecnologias
+- TCP/IP
+- DHCP
+- DNS
+- NAT
+- VLANs
+
+<br />
+<br />
+
 ### 📊 Estatísticas
 
 <p>
