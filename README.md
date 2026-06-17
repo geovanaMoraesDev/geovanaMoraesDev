@@ -34,7 +34,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 <img 
     align="left" 
@@ -42,7 +42,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -50,7 +50,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
 />
 <img 
     align="left" 
@@ -58,7 +58,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/diagram-3.svg" 
 />
 <img 
     align="left" 
@@ -66,7 +66,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/hdd-network.svg" 
 />
 <img 
     align="left" 
@@ -74,7 +74,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/globe.svg" 
 />
 <img 
     align="left" 
@@ -82,7 +82,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/diagram-2.svg" 
 />
 <img 
     align="left" 
@@ -90,7 +90,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/ethernet.svg" 
 />
 <img 
     align="left" 
@@ -98,7 +98,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons-router.svg" 
 />
 <img 
     align="left" 
@@ -106,7 +106,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/globe2.svg" 
 />
 <img 
     align="left" 
@@ -114,7 +114,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/arrow-left-right.svg" 
 />
 <img 
     align="left" 
@@ -122,7 +122,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/signpost-split.svg" 
 />
 <img 
     align="left" 
@@ -130,7 +130,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/ethernet.svg" 
 />
 <img 
     align="left" 
@@ -138,7 +138,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/tools.svg" 
 />
 
 <br/>
