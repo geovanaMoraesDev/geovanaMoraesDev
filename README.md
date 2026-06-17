@@ -59,7 +59,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
 <br/>
 <br/>
 
-## ☁️ Cloud
+** ☁️ Cloud **
 
 ### Plataformas
 - Microsoft Azure
