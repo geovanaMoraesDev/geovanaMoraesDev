@@ -23,8 +23,8 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
         />
     </a>
     <br />
-    <a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/byfeliperocha"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/geovana-moraes-1a609a372/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/geovanaa_moraess"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
