@@ -41,7 +41,7 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; color: white" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
