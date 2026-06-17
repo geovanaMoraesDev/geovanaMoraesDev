@@ -30,28 +30,27 @@ Me chamo geovana da silva moraes e sou Apaixonada por tecnologia, redes e comput
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<br />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="AZURE"
+    title="AZURE" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="AMAZON WEB SERVICES" 
+    title="AMAZON WEB SERVICES"
     width="30px" 
     style="padding-right: 10px; color: white" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="GOOGLE CLOUD" 
+    title="GOOGLE CLOUD"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
